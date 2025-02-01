@@ -1,1 +1,1 @@
-line from conflict-branch
+Line from conflict-branch
